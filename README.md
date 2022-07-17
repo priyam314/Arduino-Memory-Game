@@ -2,7 +2,7 @@
 
 ## Description
 
-The following Embedded System Project is inspired from the [Simon Memory Game](https://en.wikipedia.org/wiki/Simon_(game)). The System outputs a sequence of digits (0-9) inclusive one at a time, which user has to imitate from starting by tapping the keys on the keypad until the user tap the wrong key at some point. Points are recorded after each right answer and green led glows, total score is shown after tapping the wrong key with buzzer being active for approx 1 second.
+The following Embedded System Project is inspired from the [Simon Memory Game](https://en.wikipedia.org/wiki/Simon_(game)). The System outputs a sequence of digits (0-9) inclusive one at a time, which user has to imitate from starting by tapping the keys on the keypad until the user tap the wrong key at some point. Points are recorded after each right answer and green led glows, total score is shown after tapping the wrong key with buzzer being active for approx 1 second. Refer this link to check out the woring prototype [Project Link](https://www.tinkercad.com/things/eYB30KqzbIw-swanky-uusam/editel)
 
 ## Motivation
 
